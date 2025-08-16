@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Restart.iml" filepath="$PROJECT_DIR$/Java-Restart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_College/Java_College.iml" filepath="$PROJECT_DIR$/Java_College/Java_College.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_College/Java/Java_College2.iml" filepath="$PROJECT_DIR$/Java_College/Java/Java_College2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Stack_LL/Java_Stack_LL.iml" filepath="$PROJECT_DIR$/Java_Stack_LL/Java_Stack_LL.iml" />
+    </modules>
+  </component>
+</project>
